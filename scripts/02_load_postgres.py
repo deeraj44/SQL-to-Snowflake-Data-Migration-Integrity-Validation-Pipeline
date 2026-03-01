@@ -10,7 +10,7 @@ from sqlalchemy import create_engine
 url = URL.create(
     drivername="postgresql+psycopg2",
     username="postgres",
-    password="A@qwerTy299",
+    password="******",
     host="localhost",
     port=5432,
     database="migration"
@@ -48,4 +48,5 @@ def main():
     print(f"fraud_labels: {len(df_labels)}")
 
 if __name__ == "__main__":
+
     main()
