@@ -1,0 +1,7 @@
+metric,postgres_value,snowflake_value,match
+transactions_rows,568630.0,568630.0,True
+features_rows,568630.0,568630.0,True
+labels_rows,568630.0,568630.0,True
+fraud_sum,284315.0,284315.0,True
+amount_min,50.01,50.01,True
+amount_max,24039.93,24039.93,True

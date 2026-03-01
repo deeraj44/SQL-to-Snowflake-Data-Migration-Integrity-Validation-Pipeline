@@ -1,0 +1,2 @@
+rows,columns,duplicate_id_count,null_total,fraud_count,nonfraud_count,fraud_rate,amount_min,amount_max,amount_mean
+568630,31,0,0,284315,284315,0.5,50.01,24039.93,12041.957634577848

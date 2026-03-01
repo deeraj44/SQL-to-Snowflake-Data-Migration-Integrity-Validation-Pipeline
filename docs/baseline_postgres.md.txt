@@ -1,0 +1,2 @@
+"amount_min"	"amount_max"	"amount_avg"
+50.01	24039.93	12041.95763457795
