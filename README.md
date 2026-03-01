@@ -16,8 +16,8 @@ Snowflake (Target System)
 Automated Reconciliation Report
 
 # Dataset
-Source: Kaggle Credit Card Fraud Detection Dataset (2023)
-
+Source: Kaggle Credit Card Fraud Detection Dataset (2023)  
+Link: https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023  
 568,630 financial transactions
 
 Features: V1–V28 (anonymized attributes)
