@@ -5,14 +5,14 @@ This project simulates an enterprise-grade data migration from a legacy PostgreS
 The objective was to replicate a real-world SQL → Snowflake transition scenario where financial accuracy, referential integrity, and audit validation are critical.
 
 # Architecture
-Kaggle CSV
-    ↓
-PostgreSQL (Source System)
-    ↓
-Python Migration Pipeline (Chunked ETL)
-    ↓
-Snowflake (Target System)
-    ↓
+Kaggle CSV  
+    ↓  
+PostgreSQL (Source System)  
+    ↓  
+Python Migration Pipeline (Chunked ETL)  
+    ↓  
+Snowflake (Target System)  
+    ↓  
 Automated Reconciliation Report
 
 # Dataset
